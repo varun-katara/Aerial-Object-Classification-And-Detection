@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+
+# Dataset
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# local backup for models
+local_models_backup/
