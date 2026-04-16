@@ -1,8 +1,20 @@
 # Virtual environment
 .venv/
+venv/
 
 # Dataset
 data/
+
+# Models / backups
+local_models_backup/
+*.keras
+*.h5
+*.pth
+*.pt
+
+# Results / outputs
+results/
+outputs/
 
 # Python cache
 __pycache__/
@@ -10,10 +22,11 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+notebooks/
+
+# Streamlit cache
+.streamlit/
 
 # OS files
 .DS_Store
 Thumbs.db
-
-# local backup for models
-local_models_backup/
