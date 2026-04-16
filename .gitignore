@@ -13,7 +13,8 @@ local_models_backup/
 *.pt
 
 # Results / outputs
-results/
+results/*
+!results/best_model.csv
 outputs/
 
 # Python cache
