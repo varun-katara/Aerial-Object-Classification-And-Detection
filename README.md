@@ -24,8 +24,6 @@ The application is deployed using **Streamlit Cloud**.
 **Access the deployed app here:**
 
 ```text
-Paste your Streamlit link here
-Example:
 https://aerial-object-classification-and-detection-vqpbadih782t9drjpmu.streamlit.app/
 ```
 
